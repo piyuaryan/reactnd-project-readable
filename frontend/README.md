@@ -42,6 +42,10 @@ You can delete or rename the other files.
 
 In the project directory, you can run:
 
+### `npm install`
+
+This would install required dependencies to run the project into project folder.
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
